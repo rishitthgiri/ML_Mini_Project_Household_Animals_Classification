@@ -1,0 +1,9 @@
+torch
+torchvision
+datasets
+scikit-learn
+matplotlib
+numpy
+pillow
+reportlab
+python-pptx
